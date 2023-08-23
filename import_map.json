@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/patecuador/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
